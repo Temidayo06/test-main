@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.logo {
+  color: black;
+  font-weight: 200;
+  font-size: 18px;
+}
+.navss {
+  align-items: center;
+  padding: 0.5rem;
+}
+.navl {
+  color: black;
+  font-size: 14px;
+}
+.navbtn {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid #5e3bee;
+  font-size: 12px;
+  padding: 0.5rem;
+  color: #5e3bee;
+  background-color: white;
+  border-radius: 5px;
+}
+.navbtn:hover {
+  background-color: #5e3bee;
+  color: white;
+}
+.navspan {
+  color: #5e3bee;
+}
+.navspan:hover {
+  color: white;
+}
+.nav {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}

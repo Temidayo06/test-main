@@ -1,0 +1,58 @@
+.Test {
+  padding: 1rem;
+  background-color: #edf9fe;
+}
+.testh5 {
+  font-size: 12px;
+  font-weight: 500;
+}
+.testh2 {
+  font-size: 28px;
+  font-weight: 600;
+  padding-bottom: 1.5rem;
+}
+.teststar {
+  width: 80px;
+  padding-bottom: 1.5rem;
+}
+.test1 {
+  border: 0.5px solid #5e3bee;
+  padding: 1rem;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.testh3 {
+  font-size: 10px;
+  padding-bottom: 1rem;
+}
+.testpic {
+  width: 15%;
+  height: 35px;
+}
+.testflex {
+  display: flex;
+  gap: 1.5rem;
+  line-height: 0;
+}
+.testh4 {
+  font-size: 12px;
+}
+.testp {
+  font-size: 10px;
+}
+@media (min-width: 768px) {
+  .Test {
+    padding-left: 3rem;
+  }
+  .textflex {
+    display: flex;
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .test1 {
+    padding: 2rem;
+  }
+}
